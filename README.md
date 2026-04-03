@@ -16,7 +16,7 @@ All projects implemented from scratch based on the project description only, wit
 
 | Order | #    | Project                                  | Status |
 | ----- | ---- | ---------------------------------------- | ------ |
-| 1     | 72   | [sPoNgEcAsE](https://github.com/rkeppler42/big-book-small-python-projects/tree/main/01-sPoNgEcAsE)                               | ⬜      |
+| 1     | 72   | [sPoNgEcAsE](https://github.com/rkeppler42/big-book-small-python-projects/tree/main/01-sPoNgEcAsE)                               | ✅      |
 | 2     | 40   | Leetspeak                                | ⬜      |
 | 3     | 50   | Ninety-Nine Bottles                      | ⬜      |
 | 4     | 51   | niNety-nniinE BoOttels                   | ⬜      |
