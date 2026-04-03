@@ -4,6 +4,8 @@ My progress through Al Sweigart's [*The Big Book of Small Python Projects*](http
 
 Projects are grouped by difficulty tier and ordered as a **roadmap** — easiest to hardest within each tier.
 
+All projects implemented from scratch based on the project description only, without reading the book's solution.
+
 ---
 
 ## 🗂️ Roadmap
@@ -168,13 +170,13 @@ python 31_guess_the_number/guess_the_number.py
 **Free online:** [https://inventwithpython.com/bigbookpython/](https://inventwithpython.com/bigbookpython/)
 
 ---
----
 # 📖 The Big Book of Small Python Projects
 
 Meu progresso no livro [*The Big Book of Small Python Projects*](https://inventwithpython.com/bigbookpython/) de Al Sweigart — 81 jogos, quebra-cabeças e simulações para aprimorar habilidades em Python.
 
 Os projetos estão agrupados por nível de dificuldade e ordenados como um **roadmap** — do mais fácil ao mais difícil dentro de cada tier.
 
+Todos os projetos foram implementados do zero a partir apenas da descrição, sem consultar a solução do livro.
 
 ---
 
